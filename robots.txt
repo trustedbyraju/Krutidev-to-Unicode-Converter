@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://trustedbyraju.github.io/Kruthidev-to-Unicode-Converter/sitemap.xml
