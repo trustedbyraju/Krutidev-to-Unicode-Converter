@@ -1,0 +1,23 @@
+# GitHub Pages Configuration
+# Krutidev to Unicode Converter — TrustedByRaju
+
+title: "Krutidev to Unicode Converter"
+description: "Free online Krutidev to Unicode Hindi font converter. Instant, accurate, 100% client-side."
+url: "https://trustedbyraju.github.io"
+baseurl: "/Kruthidev-to-Unicode-Converter"
+
+# Disable Jekyll processing for these files
+include:
+  - sw.js
+  - manifest.json
+  - robots.txt
+  - sitemap.xml
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+plugins: []
